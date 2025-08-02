@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# make the headings bold and the title title
-
-Certainly! Here is the updated tutorial with **bold headings** and the **title made a title style** for clarity:
-
 # Tutorial: Saving, Creating, and Running VirtualBox VMs from an External Drive
 
 **Step 1: Prepare Your External Drive**
@@ -48,6 +42,4 @@ Certainly! Here is the updated tutorial with **bold headings** and the **title m
 - Copy the whole VM folder (including `.vbox`, `.vdi`, Snapshots, Logs) to the external drive for full portability and proper operation.
 - Avoid unplugging or disconnecting the external drive while VirtualBox or the VM is running.
 - You can keep multiple VMs on the external drive organized by placing each VM in its own folder.
-
-If you need further help with snapshots, advanced portable VM setups, or anything else, just ask!
 
