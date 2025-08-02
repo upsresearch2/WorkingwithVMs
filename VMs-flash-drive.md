@@ -11,7 +11,7 @@
 
 1. Open VirtualBox and click **New** to start the VM creation wizard.
 2. Enter a name for your VM and select the correct OS type and version.
-3. When prompted to choose the folder for the VM, **click the folder icon to browse and select a folder on your external drive** (you can create a new folder specifically for the VM).
+3. When prompted to choose the folder for the VM, **click the folder icon to browse and select a folder on your external drive** (you can create a new folder specifically for the VM e.g. _Virtualbox VMs_).
 4. Create a virtual hard disk and save the resulting `.vdi` file inside that external drive folder.
 5. Finish the VM creation process.
 
